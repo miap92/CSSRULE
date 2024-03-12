@@ -1,0 +1,19 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+h1{
+  color: gray;
+}
+h3{
+  color: gray;
+}
+p{
+  color: gray;
+}
+h2{
+  color: red;
+}
+body{
+  background-color: #f9ebee;
+}
